@@ -1,1 +1,0 @@
-remvove the .txt from the env file to use
