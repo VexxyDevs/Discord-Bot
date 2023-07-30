@@ -1,0 +1,1 @@
+rename eav.txt to .env  (not .txt)
